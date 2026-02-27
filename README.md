@@ -1,5 +1,5 @@
 # backend <br>
 Author : Deepak Yadav <br>
-B.tech CSE Student 
+B.tech CSE Core
 <br>
-VIT Bhopal University
+@ VIT Bhopal University
